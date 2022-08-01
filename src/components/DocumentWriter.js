@@ -5,7 +5,7 @@ function DocumentWriter() {
   const placeHolderText = "Hello world";
   return (
     <div>
-      <input className="document-area" value="" />
+      <input className="document-area" value="Joshua" />
     </div>
   );
 }
