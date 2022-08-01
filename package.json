@@ -1,6 +1,7 @@
 {
   "name": "doc-writer",
   "version": "0.1.0",
+  "homepage": "https://joelgithire.github.io/doc-writer/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
