@@ -3,7 +3,7 @@ import React from "react";
 function DocumentWriter() {
   return (
     <div>
-      <Texx></Texx>
+      <textarea></textarea>
     </div>
   );
 }
